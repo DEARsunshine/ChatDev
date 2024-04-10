@@ -1,0 +1,15 @@
+Task Objective: Develop a bookkeeping app to help users record daily income and expenses and manage their financial status.
+User Needs:
+Record income and expenses
+View detailed records of income and expenses
+Categorize and analyze income and expenses
+Set budgets
+Receive bill reminders
+Export data
+Functional Description:
+Record income and expenses: Support manual input and import of bills, with customizable bill types, amounts, dates, notes, etc.
+View detailed records of income and expenses: Filter and query income and expense records by time, type, bill, etc., and display them in list or chart form.
+Categorize and analyze income and expenses: Analyze by income, expense, custom categories, etc., and display in pie charts, line charts, etc.
+Set budgets: Set budgets by month, quarter, year, etc., and track budget execution.
+Receive bill reminders: Set bill reminders to avoid forgetting to pay bills.
+Export data: Export bill data to Excel or other file formats.
